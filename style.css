@@ -1,0 +1,40 @@
+
+.image{height: 50px;width: 50px;color: white;}
+.container{display: flex;flex-direction: column;background: #085280;padding: 35px 70px 100px 70px;flex-wrap: wrap;}
+.uul{display: flex;flex-direction: row;align-items: space-around;}
+.container-1{display: flex;flex-direction: row;justify-content: space-between;}
+.container-2{display: flex;flex-direction: row;justify-content: space-between;}
+.awesome{display: flex;flex-direction: column;margin:0 200px 0 0;}
+.immg{height: 150px; width: 450px ;border: 0;  background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);  border-radius: 8px;
+    margin: 15px;}
+.randimg{height: 140px;width: 140px;border: 2px #3882F6 solid;background: transparent;border-radius: 10px;}
+.random{display: flex;flex-direction: column;justify-content: space-around;align-items: center;padding: 10px 10px 30px 10px ;}
+.immm{display: flex;flex-direction: row;justify-content: space-between;align-items: center;}
+.immmm{display: flex;flex-direction: column;align-items: center;padding: 0 10px 0 10px;}
+.quote{background: #E5E7EB;padding: 20px  200px ;font-size: 36px;font-style: italic;font-weight: lighter;}
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.srrc{ color: black;text-align: end;font-weight: bold;}
+.Home {color:white;padding:10px ; font-size: 25px;font-style: oblique;font-weight: extra-bold;}
+
+.awesome h1{
+    font-size: 48px ;font-weight: extra-bold;color: white;
+}
+.awesome p{display: block;color: gray;font-size: 18px;}
+.button{height: 40px;width: 170px;border-radius:15px;background-color:#3882F6;border: 2px white solid;}
+.sign{font-size: 23px;font-weight: 400;color: white;}
+body{margin: 0;}
+
+.last{display: flex;padding: 20px 20px 20px 20px;flex-direction: row;
+    align-items: center;justify-content: center;background: #3882F6;border-radius: 20px;}
+.aaa{margin:0  20px 20px 20px #3882F6 solid;}
+.btn{margin:0  0px 20px 20px;height: 40px;width: 170px;border-radius:20px;background-color:#3882F6 ;
+    border: 2px white solid;align-items: center;justify-content: center;transform: translateY(50%);}
+.la{font-size: 23px;font-weight: 400;color: white;align-items: center;justify-content: center;}
+.rel-last{display: flex;align-items: center;justify-content: center;background: white;padding: 30px;}
+.last h1{color: white;font-size: 26px;}
+.last p{color: white;font-size: 15px;}
+.cc{background-color: #085280;padding: 10px 0 0 0;display: flex;align-items: center;justify-content: center;}
+.cc p {color: white;text-align: center;}
